@@ -1,0 +1,6 @@
+datasets==2.6.1
+ipykernel==6.17.1
+transformers==4.23.0
+translate==3.6.1
+tqdm
+torch
