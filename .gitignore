@@ -1,3 +1,4 @@
 *.pyc
 output/
 *.final_project_venv/
+*credentials.json
