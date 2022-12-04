@@ -2,3 +2,4 @@
 output/
 *.final_project_venv/
 *credentials.json
+*/data/translations/*
